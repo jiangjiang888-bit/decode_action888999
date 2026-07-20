@@ -1,4 +1,4 @@
-__tt_define__('index.js', function(require, module, exports, Function, Promise, setTimeout, clearTimeout, setInterval, clearInterval, requestAnimationFrame, cancelAnimationFrame, GameGlobal, top, parent, open, TmarGlobal) {
+
     var _0xodS = 'jsjiami.com.v7';
     (function(_0xe35d7d, _0x4a6c93, _0x4d197b, _0x5c8498, _0x48f370, _0x150769, _0xf78369) {
         return _0xe35d7d = _0xe35d7d >> 0x3, _0x150769 = 'hs', _0xf78369 = 'hs',
@@ -1114,4 +1114,3 @@ __tt_define__('index.js', function(require, module, exports, Function, Promise, 
         });
     }());
     var version_ = 'jsjiami.com.v7';
-});
